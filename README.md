@@ -26,8 +26,6 @@
   color: black;
 }
 </style>
-</head>
-<body>
 
 <h2>Alert Messages</h2>
 
